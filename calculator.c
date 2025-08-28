@@ -11,7 +11,6 @@ int main() {
 
     // Calculator.c
     float num1, num2, result;
-    char text;
     int dots = 5, delay = 100;
     int i, choice = 0;
     
@@ -135,4 +134,5 @@ int main() {
     }
     
     return 0;
+
 }
